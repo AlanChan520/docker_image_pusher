@@ -4,4 +4,4 @@ jxxghp/moviepilot-v2:latest
 nevinee/qbittorrent:4.3.9
 amilys/embyserver:latest
 linuxserver/jellyfin:latest
-snowdreamtech/frps:latest
+snowdreamtech/frps:0.38.0
