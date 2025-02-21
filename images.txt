@@ -1,8 +1,8 @@
 lswl/vertex-base:latest
 lswl/vertex:stable
 jxxghp/moviepilot-v2:latest
-nevinee/qbittorrent:4.3.9
-nevinee/qbittorrent:latest
+linuxserver/qbittorrent:4.3.9
+linuxserver/qbittorrent:latest
 amilys/embyserver:latest
 linuxserver/jellyfin:latest
 snowdreamtech/frps:latest
