@@ -2,7 +2,7 @@ lswl/vertex-base:latest
 lswl/vertex:stable
 jxxghp/moviepilot-v2:latest
 nevinee/qbittorrent:4.3.9
-linuxserver/qbittorrent:latest
+nevinee/qbittorrent:latest
 linuxserver/transmission:latest
 amilys/embyserver:latest
 linuxserver/jellyfin:latest
