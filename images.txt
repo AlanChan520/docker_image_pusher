@@ -8,4 +8,5 @@ amilys/embyserver:latest
 linuxserver/jellyfin:latest
 snowdreamtech/frps:latest
 ddsderek/wxchat:latest
+youshandefeiyang/allinone:latest
 containrrr/watchtower:latest
