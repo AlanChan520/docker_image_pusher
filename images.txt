@@ -14,3 +14,5 @@ containrrr/watchtower:latest
 registry.cn-shenzhen.aliyuncs.com/handsfree/certd:latest
 iyuucn/iyuuplus-dev:latest
 homeassistant/home-assistant:latest
+asdlokj1qpi23/subconverter:latest
+careywong/subweb:latest
