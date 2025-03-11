@@ -16,3 +16,4 @@ iyuucn/iyuuplus-dev:latest
 homeassistant/home-assistant:latest
 asdlokj1qpi23/subconverter:latest
 careywong/subweb:latest
+xream/sub-store:latest
