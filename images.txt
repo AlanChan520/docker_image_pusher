@@ -18,3 +18,4 @@ asdlokj1qpi23/subconverter:latest
 careywong/subweb:latest
 xream/sub-store:latest
 hslr/sun-panel:latest
+ghcr.io/mhsanaei/3x-ui:latest
