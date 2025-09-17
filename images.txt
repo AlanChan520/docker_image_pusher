@@ -19,3 +19,4 @@ hslr/sun-panel:latest
 ghcr.io/mhsanaei/3x-ui:latest
 bestzwei/libretv:latest
 guovern/iptv-api:latest
+ghcr.io/trugamr/wol:latest
