@@ -9,7 +9,6 @@ linuxserver/jellyfin:latest
 snowdreamtech/frps:latest
 ddsderek/wxchat:latest
 youshandefeiyang/allinone:latest
-yuexuangu/allinone_format:latest
 containrrr/watchtower:latest
 registry.cn-shenzhen.aliyuncs.com/handsfree/certd:latest
 iyuucn/iyuuplus-dev:latest
@@ -20,3 +19,4 @@ xream/sub-store:latest
 hslr/sun-panel:latest
 ghcr.io/mhsanaei/3x-ui:latest
 bestzwei/libretv:latest
+guovern/iptv-api:latest
